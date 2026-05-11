@@ -38,31 +38,31 @@
 
 ---
 
-### You can also check my last MVC project with Laravel
+### 📋 You can also check out my last MVC project with Laravel
 #### An incident manager web app:
 
 <a href="https://github.com/malmental/S5_API_REST">
-  <img src="https://raw.githubusercontent.com/malmental/S5_API_REST/develop/docs/images/incidensly_letter.png" width="400" alt="Incidensly Logo">
+  <img src="https://raw.githubusercontent.com/malmental/S5_API_REST/develop/docs/images/incidensly_letter.png" width="500" alt="Incidensly Logo">
 </a>
 
 ---
 
-### 💻 I have a strong passion for TUI applications and terminal tooling, and I love experimenting with low-level developer experiences. Recently I've been working on a Gif to ASCII code converter and a 📝 [Cli-do](https://github.com/malmental/cli-do)
+### 💻 I have a strong passion for TUI applications and terminal tooling, and I love experimenting with low-level developer experiences. Recently I've been working on a Gif to ASCII code converter and a To_Do manager: 📝 [Cli-do](https://github.com/malmental/cli-do)
 
-#### 📟 [Toitoi](https://github.com/malmental/toitoi)
+#### 📟 [Toitoi](https://github.com/malmental/toitoi) 
 
 <a href="https://github.com/malmental/toitoi">
-  <img src="https://raw.githubusercontent.com/malmental/toitoi/develop/public/toitoi.png" width="500" alt="Toitoi Project">
+  <img src="https://raw.githubusercontent.com/malmental/toitoi/develop/public/toitoi.png" width="600" alt="Toitoi Project">
 </a>
 
 ---
 
-## 🌱 I’m currently learning React, JavaScript ecosystem tooling, TypeScript, and modern frontend architecture.
+### 🌱 I’m currently learning React, JavaScript ecosystem tooling, TypeScript, and modern frontend architecture.
 
-## 👯 I’m looking to collaborate on fullstack web apps, mobile applications, AI-driven projects, and scalable Laravel backends.
+### 👯 I’m looking to collaborate on fullstack web apps, mobile applications, AI-driven projects, and scalable Laravel backends.
 
-### 📫 How to reach me
+## 📫 How to reach me: Here's a way downbelow 😎
 
-  <a href="https://www.linkedin.com/in/orlando-rojas-oyarzun/">
+<a href="https://www.linkedin.com/in/orlando-rojas-oyarzun/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </p>
