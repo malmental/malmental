@@ -47,7 +47,7 @@
 
 ---
 
-### 💻 I have a strong passion for TUI applications and terminal tooling, and I love experimenting with low-level developer experiences. Recently I've been working on a To_Do CLI app and a Gif to ASCII code converter:
+### 💻 I have a strong passion for TUI applications and terminal tooling, and I love experimenting with low-level developer experiences. Recently I've been working on a Gif to ASCII code converter and a To_Do CLI app:
 
 #### 📟 [Toitoi](https://github.com/malmental/toitoi)
 
@@ -62,9 +62,9 @@
 
 ---
 
-#### 🌱 I’m currently learning React, JavaScript ecosystem tooling, TypeScript, and modern frontend architecture.
+## 🌱 I’m currently learning React, JavaScript ecosystem tooling, TypeScript, and modern frontend architecture.
 
-#### 👯 I’m looking to collaborate on fullstack web apps, mobile applications, AI-driven projects, and scalable Laravel backends.
+## 👯 I’m looking to collaborate on fullstack web apps, mobile applications, AI-driven projects, and scalable Laravel backends.
 
 ### 📫 How to reach me
 
