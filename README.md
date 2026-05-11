@@ -1,8 +1,8 @@
 <div align="center">
 
-## 👋 Hiya there, I'm Salem 
+# 👋 Hiya there, I'm Salem 
 
-### 💻 Fullstack Developer 
+## 💻 Fullstack Developer 
 
 ## ⚙️ Tech Stack
 
@@ -41,7 +41,7 @@
 ### 📋 You can also check out my last MVC project with Laravel
 #### An incident manager web app:
 
-<a href="https://github.com/malmental/S5_API_REST">
+<a href="https://github.com/malmental/S5_API_frontend">
   <img src="https://raw.githubusercontent.com/malmental/S5_API_REST/develop/docs/images/incidensly_letter.png" width="500" alt="Incidensly Logo">
 </a>
 
