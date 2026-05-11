@@ -33,7 +33,7 @@
 ### 🔭 I’m currently building a Laravel-based AI pet simulation engine with event-driven architecture, semantic state systems, real-time stat decay, and local LLM orchestration.
 
 <a href="https://github.com/malmental/toigotchi_api">
-  <img src="https://raw.githubusercontent.com/malmental/toigotchi_api/develop/public/images/toigotchi_api.png" width="400" alt="Toigotchi API Logo">
+  <img src="https://raw.githubusercontent.com/malmental/toigotchi_api/develop/public/images/toigotchi_api.png" width="700" alt="Toigotchi API Logo">
 </a>
 
 ---
@@ -47,17 +47,12 @@
 
 ---
 
-### 💻 I have a strong passion for TUI applications and terminal tooling, and I love experimenting with low-level developer experiences. Recently I've been working on a Gif to ASCII code converter and a To_Do CLI app:
+### 💻 I have a strong passion for TUI applications and terminal tooling, and I love experimenting with low-level developer experiences. Recently I've been working on a Gif to ASCII code converter and a 📝 [Cli-do](https://github.com/malmental/cli-do)
 
 #### 📟 [Toitoi](https://github.com/malmental/toitoi)
 
 <a href="https://github.com/malmental/toitoi">
-  <img src="https://raw.githubusercontent.com/malmental/toitoi/develop/public/toitoi.png" width="400" alt="Toitoi Project">
-</a>
-
-#### 📝 [Cli-do](https://github.com/malmental/cli-do)
-<a href="https://github.com/malmental/cli-do">
-  <img src="https://raw.githubusercontent.com/malmental/cli-do/develop/assets/cli-do.png" width="400" alt="Cli-do Project">
+  <img src="https://raw.githubusercontent.com/malmental/toitoi/develop/public/toitoi.png" width="500" alt="Toitoi Project">
 </a>
 
 ---
