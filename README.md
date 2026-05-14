@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# 👋 Hi, I'm Orlando
+=======
 # 👋 Hi, I'm Salem
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
 
 ### Fullstack Developer focused on backend systems, developer tooling, and product-oriented applications.
 
@@ -25,6 +29,7 @@ I enjoy building maintainable systems with PHP and Laravel, experimenting with A
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Godot](https://img.shields.io/badge/godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 
+<<<<<<< HEAD
 ---
 
 # 🚀 Featured Projects
@@ -37,29 +42,104 @@ AI pet simulation engine built with Laravel featuring:
 - real-time stat decay
 - local LLM orchestration
 
+<div align="center">
+  <a href="https://github.com/malmental/toigotchi_api">
+    <img src="https://raw.githubusercontent.com/malmental/toigotchi_api/develop/public/images/toigotchi_api.png" width="700">
+  </a>
+</div>
+
+=======
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
+---
+
+<<<<<<< HEAD
+## 📋 Incidensly
+=======
+# 🚀 Featured Projects
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
+
+<<<<<<< HEAD
+MVC incident management platform developed with Laravel.
+=======
+## 🧠 Toigotchi API
+
+AI pet simulation engine built with Laravel featuring:
+- event-driven architecture
+- semantic state systems
+- real-time stat decay
+- local LLM orchestration
+
 <a href="https://github.com/malmental/toigotchi_api">
   <img src="https://raw.githubusercontent.com/malmental/toigotchi_api/develop/public/images/toigotchi_api.png" width="700">
 </a>
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
 
----
-
-## 📋 Incidensly 𝔀ebApp
-
-MVC incident management platform developed with Laravel.
-
+<div align="center">
   <a href="https://github.com/malmental/S5_API_frontend">
     <img src="https://raw.githubusercontent.com/malmental/S5_API_REST/develop/docs/images/incidensly_letter.png" width="500">
   </a>
+</div>
 
 ### 🔗 Live Demo
 [![Live Demo](https://img.shields.io/badge/Live_Demo-IncidenslyWebApp-000?style=for-the-badge&logo=vercel&logoColor=white)](https://incidenslywebapp.vercel.app/)
 
 ---
 
+<<<<<<< HEAD
 ## 💻 Terminal & TUI Experiments
+=======
+## 📋 Incidensly 𝔀ebApp
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
 
+<<<<<<< HEAD
 I'm heavily interested in terminal tooling and developer-focused interfaces.
+=======
+MVC incident management platform developed with Laravel.
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
 
+<<<<<<< HEAD
+Recent experiments include:
+- GIF to ASCII converter
+- CLI productivity tooling
+- terminal-first UX exploration
+=======
+  <a href="https://github.com/malmental/S5_API_frontend">
+    <img src="https://raw.githubusercontent.com/malmental/S5_API_REST/develop/docs/images/incidensly_letter.png" width="500">
+  </a>
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
+
+<<<<<<< HEAD
+### 📟 Toitoi
+=======
+### 🔗 Live Demo
+[![Live Demo](https://img.shields.io/badge/Live_Demo-IncidenslyWebApp-000?style=for-the-badge&logo=vercel&logoColor=white)](https://incidenslywebapp.vercel.app/)
+
+---
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
+
+<<<<<<< HEAD
+<div align="center">
+  <a href="https://github.com/malmental/toitoi">
+    <img src="https://raw.githubusercontent.com/malmental/toitoi/develop/public/toitoi.png" width="600">
+  </a>
+</div>
+=======
+## 💻 Terminal & TUI Experiments
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
+
+<<<<<<< HEAD
+### 📝 Cli-do
+=======
+I'm heavily interested in terminal tooling and developer-focused interfaces.
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
+
+<<<<<<< HEAD
+<div align="center">
+  <a href="https://github.com/malmental/cli-do">
+    <img src="https://raw.githubusercontent.com/malmental/cli-do/develop/assets/cli-do.png" width="400" alt="Cli-do Project">
+  </a>
+</div>
+=======
 Recent experiments include:
 - GIF to ASCII converter
 - CLI productivity tooling
@@ -76,19 +156,43 @@ Recent experiments include:
 <a href="https://github.com/malmental/toitoi">
   <img src="https://raw.githubusercontent.com/malmental/toitoi/develop/public/toitoi.png" width="600">
 </a>
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
 
 ---
 
 ## 🌱 Currently Learning
 
+<<<<<<< HEAD
+- React ecosystem architecture
+- TypeScript
+- Frontend systems design
+- AI-integrated applications
+=======
 - React ecosystem architecture
 - TypeScript
 - Frontend systems design
 - AI-integrated applications
 - Exploring game development with Godot and Unity
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
 
 ---
 
+<<<<<<< HEAD
+## 🤝 Open to Collaborate
+
+Interested in:
+- fullstack web apps
+- AI-driven products
+- backend systems
+- developer tooling
+- Laravel ecosystems
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlando-rojas-oyarzun/)
+=======
 ## 🤝 Open to Collaborate
 
 Interested in:
@@ -108,3 +212,5 @@ Interested in:
   <a href="https://wa.me/34634653926">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
+>>>>>>> 15ded096331700efa017f58e74a5efff1154c95c
