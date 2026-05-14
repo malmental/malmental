@@ -67,16 +67,16 @@ Recent experiments include:
 - CLI productivity tooling
 - terminal-first UX exploration
 
-### 📟 Toitoi
-
-  <a href="https://github.com/malmental/toitoi">
-    <img src="https://raw.githubusercontent.com/malmental/toitoi/develop/public/toitoi.png" width="600">
-  </a>
-
 ### 📝 Cli-do
 
 <a href="https://github.com/malmental/cli-do">
   <img src="https://raw.githubusercontent.com/malmental/cli-do/develop/assets/cli-do.png" width="600" alt="Cli-do Project">
+</a>
+
+### 📟 Toitoi
+
+<a href="https://github.com/malmental/toitoi">
+  <img src="https://raw.githubusercontent.com/malmental/toitoi/develop/public/toitoi.png" width="600">
 </a>
 
 ---
