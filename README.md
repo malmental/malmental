@@ -38,36 +38,9 @@ AI pet simulation engine built with Laravel featuring:
 - real-time stat decay
 - local LLM orchestration
 
-<div align="center">
-  <a href="https://github.com/malmental/toigotchi_api">
-    <img src="https://raw.githubusercontent.com/malmental/toigotchi_api/develop/public/images/toigotchi_api.png" width="700">
-  </a>
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 Toigotchi API
-
-AI pet simulation engine built with Laravel featuring:
-- event-driven architecture
-- semantic state systems
-- real-time stat decay
-- local LLM orchestration
-
 <a href="https://github.com/malmental/toigotchi_api">
   <img src="https://raw.githubusercontent.com/malmental/toigotchi_api/develop/public/images/toigotchi_api.png" width="700">
 </a>
-
-<div align="center">
-  <a href="https://github.com/malmental/S5_API_frontend">
-    <img src="https://raw.githubusercontent.com/malmental/S5_API_REST/develop/docs/images/incidensly_letter.png" width="500">
-  </a>
-</div>
-
-### 🔗 Live Demo
-[![Live Demo](https://img.shields.io/badge/Live_Demo-IncidenslyWebApp-000?style=for-the-badge&logo=vercel&logoColor=white)](https://incidenslywebapp.vercel.app/)
 
 ---
 
@@ -75,11 +48,11 @@ AI pet simulation engine built with Laravel featuring:
 
 MVC incident management platform developed with Laravel.
 
-  <a href="https://github.com/malmental/S5_API_frontend">
-    <img src="https://raw.githubusercontent.com/malmental/S5_API_REST/develop/docs/images/incidensly_letter.png" width="500">
-  </a>
+<a href="https://github.com/malmental/S5_API_frontend">
+  <img src="https://raw.githubusercontent.com/malmental/S5_API_REST/develop/docs/images/incidensly_letter.png" width="500">
+</a>
 
-### 🔗 Live Demo
+  ### 🔗 Live Demo
 [![Live Demo](https://img.shields.io/badge/Live_Demo-IncidenslyWebApp-000?style=for-the-badge&logo=vercel&logoColor=white)](https://incidenslywebapp.vercel.app/)
 
 ---
