@@ -68,13 +68,13 @@ Recent experiments include:
 ## 📝 Cli-do
 
 <a href="https://github.com/malmental/cli-do">
-  <img src="https://raw.githubusercontent.com/malmental/cli-do/develop/assets/cli-do.png" width="550" alt="Cli-do Project">
+  <img src="https://raw.githubusercontent.com/malmental/cli-do/develop/assets/cli-do.png" width="450" alt="Cli-do Project">
 </a>
 
 ## 📟 toitoi
 
 <a href="https://github.com/malmental/toitoi">
-  <img src="https://raw.githubusercontent.com/malmental/toitoi/develop/public/toitoi.png" width="500">
+  <img src="https://raw.githubusercontent.com/malmental/toitoi/develop/public/toitoi.png" width="600">
 </a>
 
 ---
