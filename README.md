@@ -21,6 +21,8 @@ I enjoy building maintainable systems with PHP and Laravel, experimenting with A
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Other Tools
+![GitFlow](https://img.shields.io/badge/GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Godot](https://img.shields.io/badge/godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ---
@@ -35,23 +37,19 @@ AI pet simulation engine built with Laravel featuring:
 - real-time stat decay
 - local LLM orchestration
 
-<div align="center">
-  <a href="https://github.com/malmental/toigotchi_api">
-    <img src="https://raw.githubusercontent.com/malmental/toigotchi_api/develop/public/images/toigotchi_api.png" width="700">
-  </a>
-</div>
+<a href="https://github.com/malmental/toigotchi_api">
+  <img src="https://raw.githubusercontent.com/malmental/toigotchi_api/develop/public/images/toigotchi_api.png" width="700">
+</a>
 
 ---
 
-## 📋 Incidensly
+## 📋 Incidensly 𝔀ebApp
 
 MVC incident management platform developed with Laravel.
 
-<div align="center">
   <a href="https://github.com/malmental/S5_API_frontend">
     <img src="https://raw.githubusercontent.com/malmental/S5_API_REST/develop/docs/images/incidensly_letter.png" width="500">
   </a>
-</div>
 
 ### 🔗 Live Demo
 [![Live Demo](https://img.shields.io/badge/Live_Demo-IncidenslyWebApp-000?style=for-the-badge&logo=vercel&logoColor=white)](https://incidenslywebapp.vercel.app/)
@@ -67,30 +65,46 @@ Recent experiments include:
 - CLI productivity tooling
 - terminal-first UX exploration
 
-### 📝 Cli-do
+## 📝 Cli-do
 
 <a href="https://github.com/malmental/cli-do">
-  <img src="https://raw.githubusercontent.com/malmental/cli-do/develop/assets/cli-do.png" width="600" alt="Cli-do Project">
+  <img src="https://raw.githubusercontent.com/malmental/cli-do/develop/assets/cli-do.png" width="550" alt="Cli-do Project">
 </a>
 
-### 📟 Toitoi
+## 📟 toitoi
 
 <a href="https://github.com/malmental/toitoi">
-  <img src="https://raw.githubusercontent.com/malmental/toitoi/develop/public/toitoi.png" width="600">
+  <img src="https://raw.githubusercontent.com/malmental/toitoi/develop/public/toitoi.png" width="500">
 </a>
 
 ---
 
-### 🌱 I’m currently learning React, JavaScript ecosystem tooling, TypeScript, and modern frontend architecture. In my spare time, I also enjoy exploring game development with Godot and Unity
+## 🌱 Currently Learning
 
-### 👯 I’m looking to collaborate on fullstack web apps, mobile applications, AI-driven projects, and scalable Laravel backends.
+- React ecosystem architecture
+- TypeScript
+- Frontend systems design
+- AI-integrated applications
+- Exploring game development with Godot and Unity
 
-## 📫 How to reach me: Here's a way downbelow 😎
+---
 
-<a href="https://www.linkedin.com/in/orlando-rojas-oyarzun/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</p>
+## 🤝 Open to Collaborate
 
-<a href="https://wa.me/34634653926">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+Interested in:
+- fullstack web apps
+- AI-driven products
+- backend systems
+- developer tooling
+- Laravel ecosystems
+
+---
+
+## 📫 Contact
+
+  <a href="https://www.linkedin.com/in/orlando-rojas-oyarzun/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/34634653926">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
