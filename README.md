@@ -1,5 +1,6 @@
 
-# 👋 Hi, I'm Orlando
+# 👋 Hi, I'm Salem
+(My real name is Orlando 😇)
 
 ### Fullstack Developer focused on backend systems, developer tooling, and product-oriented applications.
 
@@ -86,7 +87,7 @@ Recent experiments include:
 - TypeScript
 - Frontend systems design
 - AI-integrated applications
-- Exploring game development with Godot and Unity
+- Exploring game development with Godot
 
 ---
 
